@@ -3,7 +3,7 @@
 **Data Analyst · AI Student**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ossama_Abdelhalim&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ossama-Abdelhalim&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
