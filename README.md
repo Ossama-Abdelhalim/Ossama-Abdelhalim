@@ -1,6 +1,6 @@
 # Hey there, I'm [Ossama Abdelhalim] 👋
 
-**Data Analyst · CS Student ·**
+**Data Analyst · AI Student**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
@@ -10,7 +10,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Data Analyst skilled in Excel, Python, Power BI, SQL, and more. <br/>
+Bridging raw data and actionable insights. Data Analyst specializing in Python, SQL, Power BI, and Excel to clean, model, and visualize complex datasets 📊 <br/>
 
 
 
@@ -35,7 +35,7 @@ I am a Data Analyst skilled in Excel, Python, Power BI, SQL, and more. <br/>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ossamaabdelhalim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ossamaabdelhalim/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Thevenom25)
 
 </div>
